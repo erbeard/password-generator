@@ -3,27 +3,26 @@
 # Edward Beard
 
 ## Purpose
-This website displays the working portfolio of Edward Beard. 
+This website will provide a randomly generated password based on a selected number of characters betweeen 8 and 128 characters. User will be prompted on whether they would like to include Numbers, Special Characters, Lowercase & Uppercase letters. 
 
 ## Built With
 * HTML
 * CSS
+* Javascript
 
 ## Features
 This webisite was developed with the following features
 
-* An updated photograph of myself 
-* There are sections about me, my work and my contact information
-* When you click the links in the navigation, the UI will smooth scroll to the correspoinding section clicked
-* When you click the section about my work, you will arrive to the section with images of projects that I have developed along with a few placeholders that will link to my github
-* The first application image will be larger that the others. You will also discove that when you hover over each application the image will be come slighlty opaque. Upon clicking the top Run Buddy image you will be brought to the deployed application
-* When you resize the page to various device sizes you will be presented with a resposive layout that will adapt.
+* To get started click the Red Generate Password Button.
+* Enter the number of Characters 
+* You will then be prompted 4 times. The "Ok" button will include the requested characters. The "Cancel" button will not include the characters.
+* Once complete, you will be provided a password that fits the selected criteria
 
 
 ## Website
-https://erbeard.github.io/portfolio/
 
-![alt text](./assets/images/snapshot.PNG)
+
+![alt text](./assets/images/Capture.PNG)
 
 ## Contribution
 Made with ❤️ by Edward Beard
