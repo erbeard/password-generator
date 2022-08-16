@@ -1,4 +1,4 @@
-# Edward Beard Portfolio
+# Password Generator
 =======
 # Edward Beard
 
@@ -20,7 +20,7 @@ This webisite was developed with the following features
 
 
 ## Website
-
+https://erbeard.github.io/password-generator/
 
 ![alt text](./assets/images/Capture.PNG)
 
