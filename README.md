@@ -16,6 +16,7 @@ This webisite was developed with the following features
 * To get started click the Red Generate Password Button.
 * Enter the number of Characters 
 * You will then be prompted 4 times. The "Ok" button will include the requested characters. The "Cancel" button will not include the characters.
+* You must choose at least one group of characters
 * Once complete, you will be provided a password that fits the selected criteria
 
 

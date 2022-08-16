@@ -53,17 +53,25 @@ function getPrompts() {
   if (confirm("Would you like numbers in your password?")) {
     selectionList = selectionList.concat(numberList);
   }
-
+  
+  //Prompt for Special Characters
   if (confirm("Would you like special characters in your password?")) {
     selectionList = selectionList.concat(symbolList);
   }
 
+  //Prompt for Lowercase Letters
   if (confirm("Would you like lowercase characters in your password?")) {
     selectionList = selectionList.concat(lowerCaseList);
   }
 
+  //Prompt Uppersase Letters
   if (confirm("Would you like uppercase characters in your password?")) {
     selectionList = selectionList.concat(upperCaseList);
+  }
+
+  if (selectionList == false) {
+    window.alert("Please select at least one (Uppercase, Lowercase, Special Characters, Numbers")
+    return
   }
   return true;
 
